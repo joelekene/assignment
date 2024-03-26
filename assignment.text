@@ -1,0 +1,9 @@
+ASCII was the first major encoding but because of computer limitation it was only 1 byte
+        Unicode was invented to address the problem of encoding more languages than just English 
+        This stands for Unicord Transformatio Format
+       
+        In addition, UTF-8 encoding is the default encoding for HTML5 documents , ensuring compatility and consistency across different platform and browser. In asimpler term it allows browser to know what character set they are reading  and how to display them to the user.
+         unicode a universal character encoding.
+        utf-8 is the dominant encoding for the world wide web and accounts for roughly 98% of all web pages
+        UTF-8 is a variable length encoding that is backwards compatible with ASCII and is the most popular encoding today
+        In HTML, utf-8 encoding allows web page to display text in various language and character sets. it ensures that character from different language, symbols and special characters can be properly rendered and display on web pages regardless of the users language or location. 
