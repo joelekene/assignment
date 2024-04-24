@@ -1,0 +1,37 @@
+body{
+    background: fixed;
+
+}
+body{
+    background-image: url(TIME1.jfif);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+    
+}
+form{
+    position: relative;
+    background-position: 500px;
+    margin: auto;
+    align-self: center;
+    
+    
+}
+.container{
+    width: 500px;
+    display: table-row;
+    margin: auto;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-);
+    display flex:;
+
+}
+input{
+    display:
+    width: 1000px;
+    
+}
