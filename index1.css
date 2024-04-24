@@ -20,14 +20,18 @@ form{
     
 }
 .container{
-    width: 500px;
+    width: 400px;
     display: table-row;
     margin: auto;
     position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-);
-    display flex:;
+    height: auto;
+    box-shadow: 0 10px 35px 2px rgb(red, rgb(101, 172, 101), blue);
+    padding: 10px;
+    color: red;
+    margin-bottom: 30px;
 
 }
 input{
